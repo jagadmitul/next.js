@@ -18,7 +18,7 @@ export default function ImageComponent() {
     }, [imagesUrl])
 
     const setRandomValue = () => {
-        const randomValue = Math.floor(Math.random() * 50)
+        const randomValue = Math.floor(Math.random() * imagesUrl.length)
         setRandomImageValue(randomValue)
     }
 
