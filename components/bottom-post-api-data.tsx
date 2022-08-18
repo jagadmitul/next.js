@@ -9,8 +9,8 @@ const BottomPostApiData = ({ apiData }: Props) => {
         <div className="max-w-2xl mx-auto">
             <div className={markdownStyles['markdown']}>
                 {
-                    apiData.map((item) => (
-                        <p>{item.title}</p>
+                    apiData.map((item, index) => (
+                        <p key={index}>{item.title}, ({item.id})</p>
                     ))
                 }
             </div>
