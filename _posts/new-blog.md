@@ -1,13 +1,13 @@
 ---
 title: 'New Static Blog Page Generation'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/medium.jpg'
+coverImage: '/assets/sun.jpg'
 date: '2022-08-17T05:35:07.322Z'
 author:
   name: Mitul Jagad
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
-  url: '/assets/medium.jpg'
+  url: '/assets/sun.jpg'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.

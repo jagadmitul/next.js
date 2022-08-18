@@ -34,7 +34,7 @@ export default function ImageComponent() {
         <div className={styles.container}>
             {memoizedValue ?
                 <div className={styles.componentWrapper}>
-                    <Image className={styles.image} src={memoizedValue.url} height={500} width={500} loader={loaderProp} />
+                    <Image className={styles.image} src={memoizedValue.url} height={600} width={600} loader={loaderProp} />
                     <button className={styles.button} onClick={setRandomValue}>Change image</button>
                 </div>
                 :
